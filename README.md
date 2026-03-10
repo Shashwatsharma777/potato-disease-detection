@@ -1,6 +1,6 @@
 # Plant Disease Detection System
 
-Hey there! 👋 Welcome to my Plant Disease Detection project. 
+Hey there! Welcome to my Plant Disease Detection project. 
 
 This application is built to help farmers, gardeners, or anyone who loves plants figure out if their crops are sick. By just uploading a clear picture of a leaf, the system uses deep learning to identify the specific disease affecting the plant. 
 
