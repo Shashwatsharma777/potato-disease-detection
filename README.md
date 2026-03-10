@@ -1,8 +1,14 @@
-#  Plant Disease Detection System
+# Plant Disease Detection System
 
-A machine learning application for detecting diseases in plant leaves using deep learning. Just upload a leaf image to get an instant disease prediction.
+Hey there! 👋 Welcome to my Plant Disease Detection project. 
+
+This application is built to help farmers, gardeners, or anyone who loves plants figure out if their crops are sick. By just uploading a clear picture of a leaf, the system uses deep learning to identify the specific disease affecting the plant. 
+
+**How does it work?**
+I trained a Convolutional Neural Network (CNN) from scratch using TensorFlow and Keras. The model looks at the patterns, spots, and colors on the leaf image and compares them against thousands of images it has seen before. It can currently recognize 15 different classes (including both healthy and diseased states) with an accuracy of around 92.7%. It's designed to be fast and user-friendly, with a clean React frontend and a FastAPI backend doing the heavy lifting.
 
 **Supported Plants:** Potato, Tomato, and Bell Pepper
+
 
 ##  Quick Start
 To run this project locally, follow these steps:
