@@ -1,10 +1,10 @@
-# 🌿 Plant Disease Detection System
+#  Plant Disease Detection System
 
 A machine learning application for detecting diseases in plant leaves using deep learning. Just upload a leaf image to get an instant disease prediction.
 
 **Supported Plants:** Potato, Tomato, and Bell Pepper
 
-## 🚀 Quick Start
+##  Quick Start
 To run this project locally, follow these steps:
 
 ### Prerequisites
@@ -35,7 +35,7 @@ Now you can upload an image from the frontend and test the model!
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 * `training/` - Contains the Jupyter notebook used for model training and data preprocessing
 * `backend/` - FastAPI server handling the inference (loads the trained model to serve predictions)
@@ -45,7 +45,7 @@ Now you can upload an image from the frontend and test the model!
 
 ---
 
-## 🧠 Model Info
+## Model Info
 * **Architecture**: Custom CNN
 * **Framework**: TensorFlow / Keras
 * **Total Classes**: 15 (Various diseases + Healthy leaves across 3 plant types)
