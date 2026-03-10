@@ -69,3 +69,6 @@ frontend/yarn-error.log*
 .LSOverride
 Thumbs.db
 PlantVillage/
+
+# AI assistant config (should not be in version control)
+.claude/
